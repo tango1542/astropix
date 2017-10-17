@@ -16,7 +16,7 @@
     "request": "^2.83.0",
     "serve-favicon": "~2.4.5"
   },
-  "engines" {
+  "engines": {
     "node": "6.9.2",
     "npm" : "3.10.9"
   }
